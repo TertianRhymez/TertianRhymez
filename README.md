@@ -14,7 +14,7 @@
 
 ```typescript
 const developer = {
-  name: "Miguel Escuadra Munguia",
+  name: "Tu Nombre",
   location: "Zapopan, Jalisco 🇲🇽",
   code: ["JavaScript", "TypeScript", "Python", "Java"],
   technologies: {
@@ -129,7 +129,7 @@ const developer = {
   
   ### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
-  ![Profile views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile views](https://komarev.com/ghpvc/?username=TertianRhymez&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
