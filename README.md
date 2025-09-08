@@ -41,14 +41,14 @@ const developer = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TertianRhymez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TertianRhymez&layout=compact&langs_count=8&theme=radical"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=radical&hide_border=false)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TertianRhymez&theme=radical&hide_border=false)
   
 </div>
 
@@ -85,7 +85,7 @@ const developer = {
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=TertianRhymez&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </div>
 
@@ -95,7 +95,7 @@ const developer = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/TU_USERNAME/TU_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/TertianRhymez/TertianRhymez/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -105,8 +105,8 @@ const developer = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=PROYECTO1&theme=radical)](https://github.com/TU_USERNAME/PROYECTO1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=PROYECTO2&theme=radical)](https://github.com/TU_USERNAME/PROYECTO2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TertianRhymez&repo=PROYECTO1&theme=radical)](https://github.com/TertianRhymez/PROYECTO1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TertianRhymez&repo=PROYECTO2&theme=radical)](https://github.com/TertianRhymez/PROYECTO2)
 
 </div>
 
