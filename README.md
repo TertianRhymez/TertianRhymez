@@ -14,7 +14,7 @@
 
 ```typescript
 const developer = {
-  name: "Tu Nombre",
+  name: "Miguel Escuadra Munguia",
   location: "Zapopan, Jalisco 🇲🇽",
   code: ["JavaScript", "TypeScript", "Python", "Java"],
   technologies: {
