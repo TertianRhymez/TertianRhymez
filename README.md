@@ -95,7 +95,7 @@ const developer = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg)
   
 </div>
 
