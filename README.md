@@ -95,7 +95,7 @@ const developer = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/TertianRhymez/TertianRhymez/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
   
 </div>
 
